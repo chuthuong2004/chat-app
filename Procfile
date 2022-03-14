@@ -1,1 +1,1 @@
-web: http://localhost/app/ChatApp/
+web: http://localhost/app/ChatApp/index.php
